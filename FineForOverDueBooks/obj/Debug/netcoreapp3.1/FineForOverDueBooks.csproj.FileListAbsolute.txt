@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.exe
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.deps.json
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.runtimeconfig.json
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.runtimeconfig.dev.json
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.dll
+C:\Users\ethan\source\repos\FineForOverDueBooks\bin\Debug\netcoreapp3.1\FineForOverDueBooks.pdb
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.AssemblyInfo.cs
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.dll
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.pdb
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.genruntimeconfig.cache
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.csproj.AssemblyReference.cache
+C:\Users\ethan\source\repos\FineForOverDueBooks\obj\Debug\netcoreapp3.1\FineForOverDueBooks.GeneratedMSBuildEditorConfig.editorconfig
